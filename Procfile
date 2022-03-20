@@ -1,1 +1,1 @@
-"web: gunicorn pred.wsgi" 
+web: gunicorn locallibrary.wsgi --log-file -
